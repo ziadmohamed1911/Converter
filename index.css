@@ -59,6 +59,9 @@ input[type="number"]::-webkit-outer-spin-button {
     text-align: center;
     background: #1F2937;
     padding: 40px 
+    display: flex;
+    flex-direction: column;
+    
 }
 
 .card {
