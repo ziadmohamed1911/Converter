@@ -42,6 +42,8 @@ input[type="number"]::-webkit-outer-spin-button {
     font-size: 16px;
     font-weight: lighter;
     font-style: italic;
+    color: #B295FF;
+    text-align: center;
 }
 
 #convert-btn {
